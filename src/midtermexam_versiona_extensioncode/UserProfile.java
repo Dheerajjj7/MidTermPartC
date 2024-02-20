@@ -53,7 +53,7 @@ public class UserProfile
     public String getGenre() {
         return genre;
     }
-
+//I added these comments for the fetch+merge
     /**
      * @param genre the genre to set
      */
